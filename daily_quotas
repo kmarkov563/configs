@@ -1,40 +1,232 @@
-56. «Урок без боли ничего не стоит. Ничего нельзя получить, не пожертвовав чем-то взамен». — Эдвард Элрик, «Fullmetal Alchemist: Brotherhood»
-57. «Я не хочу ничего покорять. Просто Король пиратов — тот, кто свободнее всех в этом море». — Монки Д. Луффи, «One Piece»
-58. «Если не можешь защитить даже мечту своего капитана, то твои амбиции — пустые слова». — Ророноа Зоро, «One Piece»
-59. «Нельзя убегать. Нельзя убегать. Нельзя убегать». — Синдзи Икари, «Neon Genesis Evangelion»
-60. «Экстрасенсорные силы — такая же черта, как умение быстро бегать. Особенным тебя это не делает». — Рэйгэн Аратака, «Mob Psycho 100»
-61. «У меня, Джорно Джованны, есть мечта». — Джорно Джованна, «JoJo’s Bizarre Adventure: Golden Wind»
-62. «Магия — это мир воображения». — Фрирен, «Frieren: Beyond Journey’s End»
-63. «Я хочу понять, что значит „я тебя люблю“». — Вайолет Эвергарден, «Violet Evergarden»
-64. «Пока я здесь, ты непобедим!» — Сёё Хината, «Haikyuu!!»
-65. «Я хочу узнать, что значит быть сильным». — Иппо Макуноути, «Hajime no Ippo»
-66. «Жизнь — это страдание. Она тяжела. Мир проклят. И всё же находишь причины жить». — Предводитель прокажённых, «Принцесса Мононоке»
-67. «Те, кто нарушает правила, — мусор. Но те, кто бросает друзей, — хуже мусора». — Какаси Хатакэ, «Naruto»
-68. “Do. Or do not. There is no try.” — Yoda, “Star Wars: The Empire Strikes Back”
-69. “It does not do to dwell on dreams and forget to live.” — Albus Dumbledore, “Harry Potter and the Philosopher's Stone”
-70. “All we have to decide is what to do with the time that is given us.” — Gandalf, “The Fellowship of the Ring”
-71. «Рукописи не горят». — Воланд, «Мастер и Маргарита»
-72. «Счастье для всех, даром, и пусть никто не уйдёт обиженный!» — Рэдрик Шухарт, «Пикник на обочине»
-73. «У кого есть „зачем“ жить, тот выдержит почти любое „как“». — Фридрих Ницше
-74. “Talk is cheap. Show me the code.” — Linus Torvalds
-75. “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
-76. «Шагни за грань невозможного и отбрось здравый смысл!» — Камина, «Gurren Lagann»
-77. «Мы летаем силой духа». — Кики, «Kiki’s Delivery Service»
-78. «Пусти корни в землю, живи вместе с ветром, сей семена зимой и встречай весну с птицами». — Сита, «Небесный замок Лапута»
-79. «Место, где о тебе кто-то думает, — это и есть дом». — Джирайя, «Naruto»
-80. «Как же это всё муторно». — Сикамару Нара, «Naruto»
-81. «Одно — это всё, а всё — это одно». — Идзуми Кёртис, «Fullmetal Alchemist: Brotherhood»
-82. «Андзай-сэнсэй… я хочу играть в баскетбол». — Хисаси Мицуи, «Slam Dunk»
-83. «Я знаю не всё. Я знаю только то, что знаю». — Цубаса Ханэкава, «Bakemonogatari»
-84. «Сеть огромна и бесконечна». — Мотоко Кусанаги, «Ghost in the Shell»
-85. «Песни — это хорошо. Песни дарят радость. Это вершина культуры, созданной лилим». — Каору Нагиса, «Neon Genesis Evangelion»
-86. «Герой Химмель поступил бы именно так». — Фрирен, «Frieren: Beyond Journey’s End»
-87. «Я — гений!» — Ханамити Сакураги, «Slam Dunk»
-88. “Fear is the mind-killer.” — Frank Herbert, “Dune”
-89. «Красота спасёт мир». — Фёдор Достоевский, «Идиот»
-90. «Человек создан для счастья, как птица для полёта». — Владимир Короленко, «Парадокс»
-91. «Человек — это звучит гордо!» — Сатин, «На дне»
-92. “Life, uh, finds a way.” — Ian Malcolm, “Jurassic Park”
-93. “Stay hungry. Stay foolish.” — Steve Jobs
-94. “There are only two hard things in Computer Science: cache invalidation and naming things.” — Phil Karlton
-95. “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+96. «Магия интереснее всего, пока ты её ищешь». — Фрирен, «Frieren: Beyond Journey’s End»
+97. «Когда у человека есть что-то дорогое, что он хочет защитить, — вот тогда он становится по-настоящему сильным». — Хаку, «Naruto»
+99. «Когда человек лжёт, важна не сама ложь, а его причина. Его „зачем“». — Холо, «Spice and Wolf»
+100. «Тот, кто делает первый ход, всегда побеждает». — L, «Death Note»
+101. «Бояться — не плохо. Именно страх и довёл меня досюда». — Айзен, «Frieren: Beyond Journey’s End»
+102. «Твой дар — упорство. Именно оно и делает тебя гением». — Майто Гай, «Naruto»
+104. «Не дуйся. Ты получил ценный урок — запомни урок, а не разочарование». — Холо, «Spice and Wolf»
+105. «Больше всего на свете я ненавижу отвечать неблагодарностью на чужую доброту». — Лайт Ягами, «Death Note»
+106. «В душе я почти не изменился с детства. Просто изображал взрослого, стремясь стать таким, каким хотел бы быть». — Хайтер, «Frieren: Beyond Journey’s End»
+107. «Хороший ниндзя сам создаёт свою удачу». — Рок Ли, «Naruto»
+109. «Все мужчины глупо ревнуют, а женщины глупы, что этому радуются». — Холо, «Spice and Wolf»
+110. «Строить догадки — нормальная часть любого расследования. Если ошибёмся, это будет стоить нам всего лишь извинения». — Нир, «Death Note»
+111. «Я хочу такое путешествие, над которым потом, когда оно закончится, можно будет посмеяться: какое оно было нелепое и весёлое». — Химмель, «Frieren: Beyond Journey’s End»
+112. «Чудовищем человека делает не лицо, а выбор, который он делает в жизни». — Наруто Удзумаки, «Naruto»
+114. «Путник оставляет в деревне не сожаления, а добрые воспоминания». — Крафт Лоуренс, «Spice and Wolf»
+115. «Если работать головой, можно есть сладкое и не толстеть». — L, «Death Note»
+116. «Чувства не дойдут до другого человека, пока не скажешь о них словами». — Зайн, «Frieren: Beyond Journey’s End»
+117. «Если тебе что-то дорого — защищай это. Как бы ни было тяжело и грустно, продолжай стараться». — Кайдза, «Naruto»
+119. «Ложь, которую нельзя опровергнуть, ничем не отличается от правды». — Крафт Лоуренс, «Spice and Wolf»
+120. «Нельзя победить, если всё время обороняешься. Чтобы выиграть, нужно нападать». — Лайт Ягами, «Death Note»
+121. «Когда взрослеешь и начинаешь чувствовать дистанцию между людьми, избегаешь даже ссор. Такие стычки — привилегия молодых». — Зайн, «Frieren: Beyond Journey’s End»
+122. «Любовь — это желание сердца заботиться о дорогом человеке, оберегать его и быть рядом». — Ясямару, «Naruto»
+124. «Тот, кто знает, как сделать, служит тому, кто знает, зачем». — Крафт Лоуренс, «Spice and Wolf»
+125. «Я тоже ребячлив и терпеть не могу проигрывать». — L, «Death Note»
+126. «Ну и пусть я ненастоящий герой. Я одолею Короля демонов и верну миру покой — и тогда уже неважно, настоящий я или нет». — Химмель, «Frieren: Beyond Journey’s End»
+127. «Используй свои провалы, чтобы стать лучшим лидером». — Сикаку Нара, «Naruto»
+129. «В любом пути, дойдя до развилки, приходится в тот же миг решать, куда свернуть». — Холо, «Spice and Wolf»
+130. «Люди несовершенны. Все лгут. И всё же я всегда старался не лгать так, чтобы это ранило других». — Лайт Ягами, «Death Note»
+131. «Мы хотим помочь, а не услышать благодарность. Если человек останется у нас в долгу, это уже не настоящая помощь». — Химмель, «Frieren: Beyond Journey’s End»
+132. «Чтобы быть шиноби, мало силы и техник. Нужно научиться здраво судить и принимать верные решения». — Джирайя, «Naruto»
+134. «Раз уж отведал яду — доешь и всё блюдо». — Холо, «Spice and Wolf»
+135. «В этом мире очень мало людей, которые по-настоящему доверяют друг другу». — Лайт Ягами, «Death Note»
+136. «Похоже, я куда упрямее, чем сам о себе думал». — Денкен, «Frieren: Beyond Journey’s End»
+137. «Они спасли меня от одиночества. Они первыми приняли меня таким, какой я есть». — Наруто Удзумаки, «Naruto»
+139. «Опытный легко становится самоуверенным, а самоуверенность может его погубить». — Холо, «Spice and Wolf»
+140. «Если не можешь выиграть игру, если не можешь решить загадку, — ты просто проигравший». — Нир, «Death Note»
+141. «Каждый, кто старался изо всех сил, — воин». — Айзен, «Frieren: Beyond Journey’s End»
+143. «Ни покой, ни любовь за деньги не купишь». — Миса Аманэ, «Death Note»
+145. «Думаешь, тебя выбрали, потому что ты такой умный? Не обольщайся». — Рюк, «Death Note»
+146. «Никто не может сказать, что правильно, а что нет, что праведно, а что зло». — Нир, «Death Note»
+147. “Welcome to the real world! It sucks. You’re gonna love it!” — Monica Geller, “Friends”
+148. “All of my life, everyone has always told me, ‘You’re a shoe! You’re a shoe, you’re a shoe, you’re a shoe!’ And today I just stopped and I said, ‘What if I don’t wanna be a shoe? What if I wanna be a purse, y’know? Or a hat!’” — Rachel Green, “Friends”
+149. “Oh, I wish I could, but I don’t want to.” — Phoebe Buffay, “Friends”
+150. “I’m not great at the advice, can I interest you in a sarcastic comment?” — Chandler Bing, “Friends”
+151. “Rules are good! Rules help control the fun!” — Monica Geller, “Friends”
+152. “Up until I was 25 I thought the only response to ‘I love you’ was ‘Oh crap!’” — Chandler Bing, “Friends”
+153. “I’m Chandler; I make jokes when I’m uncomfortable.” — Chandler Bing, “Friends”
+154. “Back then I used humor as a defense mechanism. Thank God I don’t do that anymore.” — Chandler Bing, “Friends”
+155. “I tend to keep talking until somebody stops me.” — Chandler Bing, “Friends”
+156. “Okay, no uterus, no opinion.” — Rachel Green, “Friends”
+157. “It’s a known fact that lobsters fall in love and mate for life.” — Phoebe Buffay, “Friends”
+158. “If he doesn’t like you, this is all a moo-point. It’s like a cow’s opinion. It just doesn’t matter. It’s moo.” — Joey Tribbiani, “Friends”
+159. “If you want to receive e-mails about my upcoming shows, then please give me money so I can buy a computer.” — Phoebe Buffay, “Friends”
+160. “You can’t just give up! Is that what a dinosaur would do?” — Joey Tribbiani, “Friends”
+161. “Oh, I’m sorry, did my back hurt your knife?” — Rachel Green, “Friends”
+162. “The fridge broke. I have to eat everything.” — Joey Tribbiani, “Friends”
+163. “Everything you need to know is in that first kiss.” — Rachel Green, “Friends”
+164. “Come on, Ross, you’re a paleontologist, dig a little deeper.” — Phoebe Buffay, “Friends”
+165. “Because I was mad at you, not because I stopped loving you!” — Rachel Green, “Friends”
+166. “I feel like Superman without my powers, you know? I have the cape, and yet I cannot fly.” — Joey Tribbiani, “Friends”
+167. “There’s no way for me to tell you this. At least there’s no new way for me to tell you this.” — Chandler Bing, “Friends”
+168. “I do not want to have everything decided for me. I spent my whole life like that.” — Rachel Green, “Friends”
+169. “I thought that it mattered what I said or where I said it. Then I realized the only thing that matters is that you make me happier than I ever thought I could be.” — Chandler Bing, “Friends”
+170. “The thing about Joey is, if you need him, he’ll be there.” — Joey Tribbiani, “Friends”
+171. “I reject anyone who’s crazy enough to actually go out with me, and then I bitch about the fact that there aren’t any great women out there.” — Chandler Bing, “Friends”
+172. “I’m gonna go get one of those job things.” — Rachel Green, “Friends”
+173. “Y’know I’m 29. I mean, who needs a savings account.” — Chandler Bing, “Friends”
+174. “Tell me things like, ‘Joey, you’ll be fine,’ and, ‘Hang in there,’ and, ‘Something big’s gonna come along, I know it.’” — Joey Tribbiani, “Friends”
+175. “You got to own your choices, boys. Choose them fully and don't look back.” — Jack Pearson, “This Is Us”
+176. “We're their parents. We do the best we can. But at the end of the day, what happens to them, how they turn out, that's bigger than us.” — Jack Pearson, “This Is Us”
+177. “If it's between you and having kids, you win. Every time. No question.” — Jack Pearson, “This Is Us”
+178. “Some people think the scariest part is coming to the hospital to have the baby. Nah. The scariest part is leaving the hospital with the baby.” — Jack Pearson, “This Is Us”
+179. “I want you to stand out. I want all of you to be as different as you can possibly be. In all the best ways.” — Jack Pearson, “This Is Us”
+180. “I love you as much as a human heart can.” — Jack Pearson, “This Is Us”
+181. “You're gonna find your balance. And then you're gonna lose it, and then you're gonna find it again. That's the ride.” — Jack Pearson, “This Is Us”
+182. “The choices you make are gonna be spectacular, because you are spectacular, son.” — Jack Pearson, “This Is Us”
+183. “The moment I saw you, I knew you were my boy. You weren't a choice, you were a fact.” — Jack Pearson, “This Is Us”
+184. “When I held you, for the first time, right here in this hospital, it hit me like a bolt of lightning. You were my purpose.” — Jack Pearson, “This Is Us”
+185. “When I was a little boy, I didn't know what I wanted to be when I grew up. … I wanted to be the man that made you happy.” — Jack Pearson, “This Is Us”
+186. “You make me feel like I'm home. And I never really felt like that before.” — Jack Pearson, “This Is Us”
+187. “I don't need anniversaries to see you. I see you every day. You are my daily meteor shower.” — Jack Pearson, “This Is Us”
+188. “You're not just my great love story. You were my big break.” — Jack Pearson, “This Is Us”
+189. “I love that you are still the most beautiful woman in any room and that you laugh with your entire face.” — Jack Pearson, “This Is Us”
+190. “I am thankful for my family. I'm thankful that we're all safe. And there's no one in the world I'd rather be too hot or too cold with.” — Jack Pearson, “This Is Us”
+191. “Sometimes, in marriage, someone has to be the one to push to make the big moves.” — Rebecca Pearson, “This Is Us”
+192. “Just because you're sensitive doesn't mean you're not strong.” — Rebecca Pearson, “This Is Us”
+193. “I love you so much it hurts, and I haven't even met you yet.” — Rebecca Pearson, “This Is Us”
+194. “It's not your job to make me feel better. It's not. It's my job. It's my job to keep standing there with my arms wide open, waiting for you to maybe someday fall inside if you needed it.” — Rebecca Pearson, “This Is Us”
+195. “You kids just kept changing. Getting better and better, and stronger and stronger. It was quite a thing for me, having a front-row seat to the best show in town.” — Rebecca Pearson, “This Is Us”
+196. “What we can control are the people we choose. Choosing our people is the closest we come to controlling our destiny.” — Randall Pearson, “This Is Us”
+197. “I think everyone sees their childhood with different lenses. You know, different perspectives.” — Randall Pearson, “This Is Us”
+198. “When you make a commitment to a child, you got to stick to it.” — Randall Pearson, “This Is Us”
+199. “My dad put on a tie every day because he had to. I put one on every day because I want to.” — Randall Pearson, “This Is Us”
+200. “Maybe I don't run into burning buildings for a living, but to me, my work is challenging and exciting. I will not apologize for the fact that it's hard to explain to people.” — Randall Pearson, “This Is Us”
+201. “There's always gonna be people out there who act like it's extra special when you do something impressive because of where you came from. You can't control that. All you can control is what you do.” — Randall Pearson, “This Is Us”
+202. “You're my steady place. I'm the best version of me when I'm with you.” — Randall Pearson, “This Is Us”
+203. “This family is what makes me special. You four, you're what make me great.” — Randall Pearson, “This Is Us”
+204. “How you present yourself on the outside reflects how you feel on the inside.” — Beth Pearson, “This Is Us”
+205. “Understanding and forgiveness are two very different animals.” — Beth Pearson, “This Is Us”
+206. “This family is not gonna be the thing that keeps you from succeeding tomorrow. This family lifts each other up.” — Beth Pearson, “This Is Us”
+207. “There's a fine line between caring and worrying, and sometimes that line gets blurry.” — Beth Pearson, “This Is Us”
+208. “When I look in your eyes, I see my home. I see eternity. And no matter what may come our way, I promise that I'll always choose you.” — Beth Pearson, “This Is Us”
+209. “I've never been seen so completely, loved so passionately, protected so fiercely.” — Beth Pearson, “This Is Us”
+210. “Sometimes you just got to do the right thing, even if it's not what you want.” — Kevin Pearson, “This Is Us”
+211. “I don't think we figure out exactly who we are all at once. I think it happens over a long period of time, just, like, piece by piece.” — Kevin Pearson, “This Is Us”
+212. “Mom, you are not in my way. You are my way.” — Kate Pearson, “This Is Us”
+213. “My son is gonna live a life without limits. I know my family can't give him sight, but they can damn sure give him that.” — Kate Pearson, “This Is Us”
+214. “When you smile, the world is a better place. See? The world just got a little better.” — Toby Damon, “This Is Us”
+215. “I can live without pizza and cookies and potato chips… The one thing I cannot live without is you.” — Toby Damon, “This Is Us”
+216. “The hardest part about seeing someone you love in pain is not being able to do anything about it, except try not to make it worse.” — Toby Damon, “This Is Us”
+217. “Roll all your windows down. Crank up the music. Grow out that 'fro. Let someone else make your bed.” — William Hill, “This Is Us”
+218. “‘I'm sorry’ is like a magic word when you're a kid. Doesn't matter what you did. Say you're sorry and it all goes away. Then you grow up, and it just doesn't work anymore, does it?” — Nicky Pearson, “This Is Us”
+219. “You're talking to one of the three men in the Western hemisphere capable of following that train of thought.” — Sheldon Cooper, “The Big Bang Theory”
+220. “My parents felt that naming me Leonard and putting me in advanced placement classes wasn't getting me beaten up enough.” — Leonard Hofstadter, “The Big Bang Theory”
+221. “Scientists do not compromise. Our minds are trained to synthesize facts and come to inarguable conclusions.” — Leonard Hofstadter, “The Big Bang Theory”
+222. “We have to take in nourishment, expel waste, and inhale enough oxygen to keep ourselves from dying. Everything else is optional.” — Sheldon Cooper, “The Big Bang Theory”
+223. “It's the social protocol, it's what you do when you have a friend who's proud of something they really suck at.” — Leonard Hofstadter, “The Big Bang Theory”
+224. “It must be humbling to suck on so many different levels.” — Sheldon Cooper, “The Big Bang Theory”
+225. “Engineering. Where the noble semi-skilled laborers execute the vision of those who think and dream. Hello, Oompa-Loompas of science.” — Sheldon Cooper, “The Big Bang Theory”
+226. “Dennis Kim is fifteen years old, and he's already correcting my work. Today I went from being Wolfgang Amadeus Mozart to... you know, that other guy.” — Sheldon Cooper, “The Big Bang Theory”
+227. “You are a great guy, and it is things you love that make you who you are.” — Penny, “The Big Bang Theory”
+228. “My parents focused on celebrating achievements, and being expelled from a birth canal was not considered one of them.” — Leonard Hofstadter, “The Big Bang Theory”
+229. “It's amazing how many supervillains have advanced degrees. Graduate school should probably do a better job of screening those people out.” — Sheldon Cooper, “The Big Bang Theory”
+230. “Notify the editors of the Oxford English Dictionary: the word ‘plenty’ has been redefined to mean ‘two.’” — Sheldon Cooper, “The Big Bang Theory”
+231. “I'm not going to watch the Clone Wars TV series until I've seen the Clone Wars movie. I prefer to let George Lucas disappoint me in the order he intended.” — Sheldon Cooper, “The Big Bang Theory”
+232. “To paraphrase Mozart, all the subatomic particles are there, I just have to put them in the right order.” — Sheldon Cooper, “The Big Bang Theory”
+233. “I'm a physicist. I have a working knowledge of the entire universe and everything it contains.” — Sheldon Cooper, “The Big Bang Theory”
+234. “Wrong is an absolute state and not subject to gradation.” — Sheldon Cooper, “The Big Bang Theory”
+235. “It's a little wrong to say a tomato is a vegetable, it's very wrong to say it's a suspension bridge.” — Stuart Bloom, “The Big Bang Theory”
+236. “You told me it's mind-blowing, so my mind is going into it pre-blown. And once a mind is pre-blown, it cannot be re-blown.” — Sheldon Cooper, “The Big Bang Theory”
+237. “When you understand the laws of physics, Penny, anything is possible.” — Sheldon Cooper, “The Big Bang Theory”
+238. “While I subscribe to the many worlds theory which posits the existence of an infinite number of Sheldons in an infinite number of universes, I assure you that in none of them am I dancing.” — Sheldon Cooper, “The Big Bang Theory”
+239. “You're afraid of insects and women. Ladybugs must render you catatonic.” — Sheldon Cooper, “The Big Bang Theory”
+240. “One cries because one is sad. For example, I cry because others are stupid and it makes me sad.” — Sheldon Cooper, “The Big Bang Theory”
+241. “I don't need sleep, I need answers. I need to determine where in this swamp of unbalanced formulas squatteth the toad of truth.” — Sheldon Cooper, “The Big Bang Theory”
+242. “I know how to deal with stubborn children. My mother used to run an illegal day care center in our basement.” — Bernadette Rostenkowski, “The Big Bang Theory”
+243. “You bowl like your mama. Unless, of course, she bowls well. In which case, you bowl nothing like her.” — Sheldon Cooper, “The Big Bang Theory”
+244. “What's life without whimsy?” — Sheldon Cooper, “The Big Bang Theory”
+245. “I'm not crazy. My mother had me tested.” — Sheldon Cooper, “The Big Bang Theory”
+246. “I find the notion of romantic love to be an unnecessary cultural construct that adds no value to human relationships.” — Amy Farrah Fowler, “The Big Bang Theory”
+247. “In order to take a vacation, one first has to work.” — Sheldon Cooper, “The Big Bang Theory”
+248. “For a smart guy, you really seem to have a hard time grasping the concept: don't piss off the people who handle the things you eat.” — Penny, “The Big Bang Theory”
+249. “Social protocol states when a friend is upset, you offer them a hot beverage, such as tea.” — Sheldon Cooper, “The Big Bang Theory”
+250. “If I don't know, you don't know. That's axiomatic.” — Sheldon Cooper, “The Big Bang Theory”
+251. “I study the brain, the organ responsible for Beethoven's Fifth Symphony. Bernadette studies yeast, the organism responsible for Michelob Lite.” — Amy Farrah Fowler, “The Big Bang Theory”
+252. “You can't ruin a friendship with sex. That's like trying to ruin ice cream with chocolate sprinkles.” — Raj Koothrappali, “The Big Bang Theory”
+253. “I help the weak. It's yet another way I'm exactly like Batman.” — Sheldon Cooper, “The Big Bang Theory”
+254. “If we hit a rough spot, instead of getting mad, just say, hey, we found a bug, and we report it so it can be fixed.” — Leonard Hofstadter, “The Big Bang Theory”
+255. “There's only one mind-expanding drug that this man enjoys, and that's called school.” — Sheldon Cooper, “The Big Bang Theory”
+256. “I would've been here sooner, but the bus kept stopping for other people to get on it.” — Sheldon Cooper, “The Big Bang Theory”
+257. “Call me Leonard. Dr. Hofstadter is my father. And my mother. And my sister. And our cat.” — Leonard Hofstadter, “The Big Bang Theory”
+258. “Are you feeling insecure? Because that's my thing, and if you take it away, I don't know what I'm bringing to this relationship.” — Leonard Hofstadter, “The Big Bang Theory”
+259. “If you're gonna screw things up, it's gonna be while you're here, not while you're away.” — Penny, “The Big Bang Theory”
+260. “I bet there are important discoveries being made every day because you inspired millions of kids to pursue science. In a way, their discoveries are your discoveries.” — Leonard Hofstadter, “The Big Bang Theory”
+261. “I don't think our relationship is a joke. I think ‘a horse goes into a bar, bartender says, why the long face?’ — that's a joke.” — Sheldon Cooper, “The Big Bang Theory”
+262. “I can take anything. Unless it's something I did, or said, or am. 'Cause those are, like, my buttons.” — Raj Koothrappali, “The Big Bang Theory”
+263. “The friend of my enemy's girlfriend is my enemy.” — Sheldon Cooper, “The Big Bang Theory”
+264. “Your precious Garfield has no reason to hate Mondays. He's a cat. He doesn't have a job.” — Sheldon Cooper, “The Big Bang Theory”
+265. “We're in a relationship. When you get angry, just tell me. You don't need to seek revenge.” — Amy Farrah Fowler, “The Big Bang Theory”
+266. “We're a couple, and I like you for who you are, quirks and all.” — Sheldon Cooper, “The Big Bang Theory”
+267. “Looking into the blank, innocent eyes of a creature that couldn't begin to comprehend anything I was saying? Basically just another day at the office.” — Sheldon Cooper, “The Big Bang Theory”
+268. “Sheldon is the smartest person I have ever met. And he's a little broken and he needs me. I guess I need him, too.” — Leonard Hofstadter, “The Big Bang Theory”
+269. “I thought we were in the kind of relationship where we make decisions together. If I'm wrong, then maybe we need to talk about the kind of relationship we're actually in.” — Leonard Hofstadter, “The Big Bang Theory”
+270. “This seemed so elegant at the time, but now I realize I was just a simple country boy seduced by a big city theory with variables in all the right places.” — Sheldon Cooper, “The Big Bang Theory”
+271. “Geology is the Kardashians of science.” — Sheldon Cooper, “The Big Bang Theory”
+272. “I'm a people person. People like me. Some of my favorite people are people.” — Penny, “The Big Bang Theory”
+273. “I can't think of a single thing I wouldn't say to someone's face.” — Sheldon Cooper, “The Big Bang Theory”
+274. “At the end of the ceremony, all the students throw those pointy hats in the air. It's all pomp and circumstance until someone loses an eye.” — Sheldon Cooper, “The Big Bang Theory”
+275. “If there were a list of things that make me more comfortable, lists would be on the top of that list.” — Sheldon Cooper, “The Big Bang Theory”
+276. “I excel at many things, but getting over you wasn't one of them.” — Sheldon Cooper, “The Big Bang Theory”
+277. “Put us on the Internet. I've always wanted a wedding with a comment section.” — Penny, “The Big Bang Theory”
+278. “I like a party as much as the next man, as long as the next man doesn't like a party.” — Sheldon Cooper, “The Big Bang Theory”
+279. “Friends are like toilet paper. It's good to have extras under the sink.” — Sheldon Cooper, “The Big Bang Theory”
+280. “All Apple does is change the size of things and we keep buying them.” — Howard Wolowitz, “The Big Bang Theory”
+281. “You get your hopes up, I knock them down. That's called teamwork.” — Sheldon Cooper, “The Big Bang Theory”
+282. “I'm very good at complaining. If it were an Olympic sport, I'd complain about what a stupid sport it is and then I'd take home the gold.” — Sheldon Cooper, “The Big Bang Theory”
+283. “It's not my fault I'm bad at sharing, I skipped kindergarten.” — Sheldon Cooper, “The Big Bang Theory”
+284. “It's like that science thing. For every action, you have a gigantic and annoying reaction.” — Penny, “The Big Bang Theory”
+285. “I said to myself, I think I can, I think I can. And then I couldn't.” — Sheldon Cooper, “The Big Bang Theory”
+286. “I felt the same way about the spork. Solids and liquids handled by one utensil? That'll never work. Spoiler: works.” — Sheldon Cooper, “The Big Bang Theory”
+287. “It could be the most inspired combination since I mixed red Icee into my blue Icee. It was like drinking two sevenths of the rainbow.” — Sheldon Cooper, “The Big Bang Theory”
+288. “Let's say you spend your life doing solid scientific research surrounded by friends and loved ones who appreciate you, not for what you've accomplished but for who you are as a man. Wouldn't that be a life well-lived?” — Amy Farrah Fowler, “The Big Bang Theory”
+289. “If I told you about every hunch, you would get very irritated.” — Patrick Jane, “The Mentalist”
+290. “It's funny what bad liars cops are. I guess they're not used to concealing themselves under questioning.” — Patrick Jane, “The Mentalist”
+291. “You know, I never understood that one. Just because someone makes their bed, why do they have to lie in it? What's to stop them from lying in another bed? Or on the floor for that matter.” — Patrick Jane, “The Mentalist”
+292. “Interesting. He is either a habitual liar telling the truth, or he's an honest man lying.” — Patrick Jane, “The Mentalist”
+293. “Easy to fool yourself that the people you love are honest.” — Patrick Jane, “The Mentalist”
+294. “Legal proof will be found, no doubt, but personally I don't need it. I just like to know that I'm right.” — Patrick Jane, “The Mentalist”
+295. “Hypnosis is just a way to connect to the imagination rather than the conscious mind. The mind will accept whatever the imagination creates, however bizarre.” — Patrick Jane, “The Mentalist”
+296. “Love is not blind, but it's often pretty stupid.” — Patrick Jane, “The Mentalist”
+297. “That urge you have to get one over on people, the need to be smarter than the next guy? It'll keep biting you on the ass.” — Patrick Jane, “The Mentalist”
+298. “When was the last time you saw a doctor's handwriting you could read?” — Patrick Jane, “The Mentalist”
+299. “I wish that I could, but, you know, some things you just can't fix.” — Patrick Jane, “The Mentalist”
+300. “Anything can happen on TV. The question is, where have you seen that done in real life?” — Patrick Jane, “The Mentalist”
+301. “I understand you. It may take you some time to understand me.” — Patrick Jane, “The Mentalist”
+302. “People trapped in miserable lives always talk about escaping. Few actually do it. It's easier just to close your eyes and pretend the misery doesn't exist.” — Patrick Jane, “The Mentalist”
+303. “You know, you're a very good liar. Most people subconsciously signal dishonesty, but you? There's nothing.” — Patrick Jane, “The Mentalist”
+304. “You know, sarcasm is the lowest form of wit.” — Patrick Jane, “The Mentalist”
+305. “It's funny, isn't it? The big regrets in life people keep to themselves.” — Patrick Jane, “The Mentalist”
+306. “We spend a lot of time together, and when she's unhappy I'm less happy. It's human nature.” — Patrick Jane, “The Mentalist”
+307. “My memory is a mighty fortress, Lisbon, from which no fact ever escapes once committed. Now when you tell me boring things, I set them free immediately. It saves overcrowding.” — Patrick Jane, “The Mentalist”
+308. “It's actually just a wadded up napkin, but it has the same psychological effect. The human mind is funny that way.” — Patrick Jane, “The Mentalist”
+309. “Oh, no need to ask questions when you know all the answers.” — Patrick Jane, “The Mentalist”
+310. “Yes, she does the detecting and I do the insulting.” — Patrick Jane, “The Mentalist”
+311. “Someone I can trust. Someone strong. Someone at peace with themselves. Someone better than me. Someone who knows the worst side of me and still loves me.” — Patrick Jane, “The Mentalist”
+312. “You're a terrible liar. Good, honest people are always bad liars.” — Patrick Jane, “The Mentalist”
+313. “I didn't give her hope. I sold her hope.” — Patrick Jane, “The Mentalist”
+314. “The closest a man should ever come to touching a fitted sweater is helping a woman out of one.” — Patrick Jane, “The Mentalist”
+315. “Thinking about what might have been will drive you crazy.” — Patrick Jane, “The Mentalist”
+316. “I just had a thoughtless impulse or an inspired hunch. I'm not sure which. I'll let you know.” — Patrick Jane, “The Mentalist”
+317. “Your inarticulate rage is understandable, but it's misplaced. You should probably just calm down.” — Patrick Jane, “The Mentalist”
+318. “Well I think it's better to regret something you did than something you didn't do.” — Patrick Jane, “The Mentalist”
+319. “Well, you win more flies with honey than with vinegar, but you use vinegar anyway.” — Patrick Jane, “The Mentalist”
+320. “Ugh. Rules are just so... tiresome and boring.” — Patrick Jane, “The Mentalist”
+321. “It's nice to be needed.” — Patrick Jane, “The Mentalist”
+322. “It's all right, Lisbon. We all have our guilty pleasures.” — Patrick Jane, “The Mentalist”
+323. “If I can't live on my terms, I'm in prison anyway.” — Patrick Jane, “The Mentalist”
+324. “The key to a good con is always making the mark feel that he is in control. I mean, you can lead a man anywhere as long as he thinks that he is driving.” — Patrick Jane, “The Mentalist”
+325. “Well, it's always nice to get tips from the competition.” — Patrick Jane, “The Mentalist”
+326. “A little deprivation and discipline is good for the soul.” — Kimball Cho, “The Mentalist”
+327. “Three hours of brooding silence and then sarcasm. It's like we're married.” — Kimball Cho, “The Mentalist”
+328. “Yeah I don't get zoos. You pay money to look at animals, why?” — Kimball Cho, “The Mentalist”
+329. “That's impressive. The best I can get with one call is a pizza.” — Kimball Cho, “The Mentalist”
+330. “I stopped asking questions a long time ago.” — Kimball Cho, “The Mentalist”
+331. “Sometimes you have to go along to get along.” — Grace Van Pelt, “The Mentalist”
+332. “I'm a cop and I lie to you all the time, you never catch it.” — Teresa Lisbon, “The Mentalist”
+333. “You're untrustworthy. It's my job not to trust you.” — Teresa Lisbon, “The Mentalist”
+334. “I didn't say I never did anything bad, I just never got caught.” — Teresa Lisbon, “The Mentalist”
+335. “You only think you know everything about me.” — Teresa Lisbon, “The Mentalist”
+336. “When the aliens do come, I hope they eat you.” — Teresa Lisbon, “The Mentalist”
+337. “Do you really think death threats are an appropriate way to begin this conversation? Sometimes your lack of social skills astonishes me.” — Sheldon Cooper, “The Big Bang Theory”
+338. «Мне кажется, настоящая сила — это смелость продолжать идти, что бы ни случилось». — Хината Хьюга, «Naruto»
